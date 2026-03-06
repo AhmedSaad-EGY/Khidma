@@ -1,4 +1,5 @@
 Khidma - Service Marketplace Database
+
 A visual representation of the complex database engineering behind the Khidma Service Marketplace. This infographic highlights the robust backend structure, featuring:
 
 Database Engineering & SQL Server: A complete ERD design focusing on system architecture and entity relationships.
